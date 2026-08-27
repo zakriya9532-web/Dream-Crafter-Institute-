@@ -1,0 +1,6 @@
+{
+  "name": "Dream Crafter Institute",
+  "description": "Official portal for Dream Crafter Institute featuring portfolio project showcase, online admissions with bank details and fee schedule, interactive chat board, AI counselor, contact forms, and database backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
